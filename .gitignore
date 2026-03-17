@@ -84,3 +84,21 @@ virtualenv/
 
 # Nested git repositories (like your project3 Banksystem)
 **/.git/
+# Visual Studio - ALL projects
+**/.vs/
+**/*.ipch
+**/ipch/
+**/AutoPCH/
+**/Debug/
+**/Release/
+**/x64/
+**/x86/
+**/*.pdb
+**/*.obj
+**/*.exe
+**/*.dll
+**/*.ilk
+**/*.idb
+**/*.pch
+**/*.tlog
+**/*.log
