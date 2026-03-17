@@ -1,0 +1,7 @@
+﻿  problem47#.cpp
+C:\Users\Administrator\Desktop\COURSE 7\problem47#\problem47#.cpp(45,27): warning C4244: 'argument': conversion from 'double' to '_Elem', possible loss of data
+C:\Users\Administrator\Desktop\COURSE 7\problem47#\problem47#.cpp(45,27): warning C4244:         with
+C:\Users\Administrator\Desktop\COURSE 7\problem47#\problem47#.cpp(45,27): warning C4244:         [
+C:\Users\Administrator\Desktop\COURSE 7\problem47#\problem47#.cpp(45,27): warning C4244:             _Elem=char
+C:\Users\Administrator\Desktop\COURSE 7\problem47#\problem47#.cpp(45,27): warning C4244:         ]
+  problem47#.vcxproj -> C:\Users\Administrator\Desktop\COURSE 7\problem47#\x64\Debug\problem47#.exe

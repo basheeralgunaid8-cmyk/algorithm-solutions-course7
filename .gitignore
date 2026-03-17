@@ -1,0 +1,86 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+*.so
+dist/
+build/
+*.egg-info/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# C/C++
+*.o
+*.obj
+*.exe
+*.out
+*.dll
+*.so
+*.dylib
+
+# JavaScript/Node
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.project
+.classpath
+.settings/
+
+# Git
+.git/
+.gitignore  # Wait, we don't want to ignore .gitignore itself!
+!.gitignore  # This tells git to keep .gitignore
+
+# Course specific
+temp/
+test_data/
+*.log
+*.tmp
+*.bak
+
+# Large files (>50MB)
+*.zip
+*.tar
+*.gz
+*.rar
+*.7z
+*.iso
+*.dmg
+
+# Environment
+.env
+venv/
+env/
+ENV/
+virtualenv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# PDFs and docs (if generated)
+*.pdf
+*.docx
+!README.md  # But keep markdown files
+
+# Nested git repositories (like your project3 Banksystem)
+**/.git/

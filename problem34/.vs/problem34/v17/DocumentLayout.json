@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\COURSE 7\\problem34\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{978C6D3A-51B0-475C-B642-89CC5893667E}|problem34.vcxproj|C:\\Users\\Administrator\\Desktop\\COURSE 7\\problem34\\problem34.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{978C6D3A-51B0-475C-B642-89CC5893667E}|problem34.vcxproj|solutionrelative:problem34.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "problem34.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\COURSE 7\\problem34\\problem34.cpp",
+              "RelativeDocumentMoniker": "problem34.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\COURSE 7\\problem34\\problem34.cpp",
+              "RelativeToolTip": "problem34.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-07T16:52:56.28Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

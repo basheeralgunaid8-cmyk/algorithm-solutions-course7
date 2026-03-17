@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\COURSE 7\\BANK SOURCE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6280109E-2014-4702-BBBE-BAD7FC4095DA}|BANK SOURCE.vcxproj|C:\\Users\\Administrator\\Desktop\\COURSE 7\\BANK SOURCE\\BANK SOURCE.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6280109E-2014-4702-BBBE-BAD7FC4095DA}|BANK SOURCE.vcxproj|solutionrelative:BANK SOURCE.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BANK SOURCE.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\COURSE 7\\BANK SOURCE\\BANK SOURCE.cpp",
+              "RelativeDocumentMoniker": "BANK SOURCE.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\COURSE 7\\BANK SOURCE\\BANK SOURCE.cpp",
+              "RelativeToolTip": "BANK SOURCE.cpp",
+              "ViewState": "AgIAAB4DAAAAAAAAAAAAAIkDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-24T12:26:57.825Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

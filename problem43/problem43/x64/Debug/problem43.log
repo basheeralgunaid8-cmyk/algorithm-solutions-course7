@@ -1,0 +1,5 @@
+﻿  problem43.cpp
+C:\Users\Administrator\Desktop\COURSE 7\problem43\problem43.cpp(7,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\COURSE 7\problem43\problem43.cpp(12,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\COURSE 7\problem43\problem43.cpp(26,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  problem43.vcxproj -> C:\Users\Administrator\Desktop\COURSE 7\problem43\x64\Debug\problem43.exe
