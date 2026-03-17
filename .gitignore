@@ -101,4 +101,4 @@ virtualenv/
 **/*.idb
 **/*.pch
 **/*.tlog
-**/*.log
+**/*.logcompiled-files.txt
